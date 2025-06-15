@@ -1,6 +1,6 @@
 {
   "language_model":"gemma3:1b",
-  "embedding_model":"nomic-embed-text:v1.5",
+  "embedding_model":"all-minilm:33m",
   "multimodal_model":"gemma3:1b",
   "multimodal_embedding_model":"nomic-embed-text:v1.5"
 }
